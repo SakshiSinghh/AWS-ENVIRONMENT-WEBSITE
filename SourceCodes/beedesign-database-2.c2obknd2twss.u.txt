@@ -1,0 +1,9 @@
+beedesign-database-2.c2obknd2twss.us-east-1.rds.amazonaws.com
+
+http://52.2.77.200:5000
+
+http://52.2.77.200:3001
+
+arn:aws:iam::637825447844:role/LabRole
+
+ https://uide6ygynd.execute-api.us-east-1.amazonaws.com/test
